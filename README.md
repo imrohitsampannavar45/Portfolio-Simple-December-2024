@@ -70,8 +70,6 @@ If you'd like to contribute to this portfolio, feel free to fork the repository,
 - **Contributing**: Invites others to contribute to the project.
 - **License**: Specifies that the project is open-source and available under the MIT License.
 
-You can further modify and customize the content as per your needs.
-
 
 
 
