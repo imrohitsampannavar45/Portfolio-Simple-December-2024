@@ -1,5 +1,4 @@
 
-```markdown
 # My Portfolio
 
 This is my personal portfolio website built using **TypeScript**, **React**, and **Vite**. It showcases my skills, projects, and experience in software development.
@@ -27,12 +26,12 @@ To get this portfolio running locally on your machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/imrohitsampannavar45/Portfolio-Simple-December-2024.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd portfolio
+   cd Portfolio-Simple-December-2024
    ```
 
 3. **Install dependencies**:
