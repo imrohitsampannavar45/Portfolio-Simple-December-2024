@@ -1,38 +1,17 @@
+Here's the corrected version of the `README.md` with proper bash syntax:
 
-# My Portfolio
-
-This is my personal portfolio website built using **TypeScript**, **React**, and **Vite**. It showcases my skills, projects, and experience in software development.
-
-## Features
-
-- **Responsive Design**: The website is fully responsive, optimized for desktop, tablet, and mobile devices.
-- **About Me**: Section describing my background, skills, and work experience.
-- **Projects**: A showcase of my personal and professional projects with links to GitHub repositories and live demos.
-- **Contact**: A contact form allowing users to reach out to me.
-
-## Tech Stack
-
-- **React**: Frontend framework to build the user interface.
-- **TypeScript**: Strongly typed programming language for better code quality and maintainability.
-- **Vite**: Next-generation build tool for faster development and optimized production builds.
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
-- **React Router**: Library for handling routing and navigation within the app.
-
-
-```
-
-
+```markdown
 ## Setup and Installation
 
 To get this portfolio running locally on your machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-git clone https://github.com/imrohitsampannavar45/Portfolio-Simple-December-2024.git
+   git clone https://github.com/imrohitsampannavar45/Portfolio-Simple-December-2024.git
    ```
 
 2. **Navigate to the project directory**:
-
+   ```bash
    cd Portfolio-Simple-December-2024
    ```
 
@@ -77,4 +56,5 @@ If you'd like to contribute to this portfolio, feel free to fork the repository,
 This project is open-source and available under the [MIT License](LICENSE).
 ```
 
-This template includes sections for explaining the tech stack, setting up the project locally, deployment instructions, and encouraging contributions. You can customize the details (like links to your repositories or additional features) to suit your portfolio.
+Changes made:
+- Fixed the code block syntax for the `git clone` and `cd` commands to properly display the commands within a markdown code block.
