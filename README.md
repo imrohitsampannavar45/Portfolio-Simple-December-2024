@@ -20,12 +20,14 @@ This is my personal portfolio website built using **TypeScript**, **React**, and
 
 
 ```
+
+
 ## Setup and Installation
 
 To get this portfolio running locally on your machine, follow these steps:
 
 1. **Clone the repository**:
-
+```
 git clone https://github.com/imrohitsampannavar45/Portfolio-Simple-December-2024.git
    ```
 
