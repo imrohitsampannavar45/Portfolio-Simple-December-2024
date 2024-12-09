@@ -29,14 +29,12 @@ Navigate to the project directory:
 ```bash
 
 cd Portfolio-Simple-December-2024
-Install dependencies:
 
 ```
 npm install
 Start the development server:
 
 ```
-Copy code
 npm run dev
 ```
 This will start the Vite development server. Open your browser and go to http://localhost:5173 to view the portfolio.
@@ -53,19 +51,15 @@ To deploy the portfolio, you can build the project and host it on platforms like
 
 Build the project:
 
-bash
+```
 Copy code
 npm run build
 Follow the specific platform's deployment steps to deploy the contents of the dist/ folder.
-
+```
 Contributing
 If you'd like to contribute to this portfolio, feel free to fork the repository, make improvements, and create a pull request.
 
-License
-This project is open-source and available under the MIT License.
 
-markdown
-Copy code
 
 ### Explanation of Sections:
 
