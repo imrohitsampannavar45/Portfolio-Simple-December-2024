@@ -25,7 +25,7 @@ This is my personal portfolio website built using **TypeScript**, **React**, and
 To get this portfolio running locally on your machine, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
+
 git clone https://github.com/imrohitsampannavar45/Portfolio-Simple-December-2024.git
    ```
 
