@@ -21,18 +21,18 @@ This is my personal portfolio website built using **TypeScript**, **React**, and
 
 ```
 
-```
+
 ## Setup and Installation
 
 To get this portfolio running locally on your machine, follow these steps:
 
 1. **Clone the repository**:
-
+   ```bash
 git clone https://github.com/imrohitsampannavar45/Portfolio-Simple-December-2024.git
    ```
 
 2. **Navigate to the project directory**:
-   ```bash
+
    cd Portfolio-Simple-December-2024
    ```
 
