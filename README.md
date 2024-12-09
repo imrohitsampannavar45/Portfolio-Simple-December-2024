@@ -1,4 +1,3 @@
-Here's a sample `README.md` file for a portfolio built using TypeScript, React, and Vite:
 
 ```markdown
 # My Portfolio
@@ -20,6 +19,8 @@ This is my personal portfolio website built using **TypeScript**, **React**, and
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 - **React Router**: Library for handling routing and navigation within the app.
 
+
+```
 ## Setup and Installation
 
 To get this portfolio running locally on your machine, follow these steps:
