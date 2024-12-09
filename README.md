@@ -26,19 +26,19 @@ To get this portfolio running locally on your machine, follow these steps:
    git clone https://github.com/imrohitsampannavar45/Portfolio-Simple-December-2024.git
 Navigate to the project directory:
 
-bash
-Copy code
+```bash
+
 cd Portfolio-Simple-December-2024
 Install dependencies:
 
-bash
-Copy code
+```
 npm install
 Start the development server:
 
-bash
+```
 Copy code
 npm run dev
+```
 This will start the Vite development server. Open your browser and go to http://localhost:5173 to view the portfolio.
 
 Folder Structure
